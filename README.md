@@ -1,1 +1,1 @@
-# static_site_generator-
+# static_website_generator
